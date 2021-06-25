@@ -10,7 +10,7 @@ We have designed a centralised database for Healthcare management system to help
 
 ### Enhanced Entity-Relationship Diagram (EERD)
 
-<img alt="EER" src="https://github.com/aelinadas/Healthcare_Management_System/tree/main/images/EER.png" />
+<img alt="EER" src="https://github.com/aelinadas/Healthcare_Management_System/blob/main/images/EER.png" />
 
 ---
 
@@ -27,15 +27,15 @@ We have designed a centralised database for Healthcare management system to help
 ### Visualization
 
 1. Count of patients for each Doctor
-	<img alt="viz1" src="https://github.com/aelinadas/Healthcare_Management_System/tree/main/images/viz1.png" />
+	<img alt="viz1" src="https://github.com/aelinadas/Healthcare_Management_System/blob/main/images/viz1.png" />
 2. Count of patients associated with each Insurance company
-	<img alt="viz2" src="https://github.com/aelinadas/Healthcare_Management_System/tree/main/images/viz2.png" />
+	<img alt="viz2" src="https://github.com/aelinadas/Healthcare_Management_System/blob/main/images/viz2.png" />
 3. Diagnosis
-	<img alt="viz3" src="https://github.com/aelinadas/Healthcare_Management_System/tree/main/images/viz3.png" />
+	<img alt="viz3" src="https://github.com/aelinadas/Healthcare_Management_System/blob/main/images/viz3.png" />
 4. Medicine Usage
-	<img alt="viz4" src="https://github.com/aelinadas/Healthcare_Management_System/tree/main/images/viz4.png" />
+	<img alt="viz4" src="https://github.com/aelinadas/Healthcare_Management_System/blob/main/images/viz4.png" />
 5. Financial Transactions
-	<img alt="viz5" src="https://github.com/aelinadas/Healthcare_Management_System/tree/main/images/viz5.png" />
+	<img alt="viz5" src="https://github.com/aelinadas/Healthcare_Management_System/blob/main/images/viz5.png" />
 	
 ---
 
