@@ -1,5 +1,5 @@
 # Healthcare_Management_System
-<img alt="project" src="https://github.com/aelinadas/Healthcare_Management_System/tree/main/images/project-theme.png" />
+<img alt="project" src="https://github.com/aelinadas/Healthcare_Management_System/images/project-theme.png" />
 
 ### PROJECT DESCRIPTION
 
