@@ -41,9 +41,9 @@ We have designed a centralised database for Healthcare management system to help
 
 ### LANGUAGE AND TOOLS
 
-- TSQL
-- Microsoft SQL Server
-- Power BI
+| Category | |
+| --- | --- |
+| Programming Languages | TSQL, Microsoft SQL Server, Power BI |
 
 ### INSTALL AND EXECUTE
 
