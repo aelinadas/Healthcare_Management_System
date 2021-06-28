@@ -1,4 +1,4 @@
-# Healthcare_Management_System
+# Healthcare Management System
 <img alt="project" src="https://github.com/aelinadas/Healthcare_Management_System/blob/main/images/project-theme.png" />
 
 ### PROJECT DESCRIPTION
