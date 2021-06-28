@@ -47,6 +47,8 @@ We have designed a centralised database for Healthcare management system to help
 | Database | Microsoft SQL Server|
 | Visualization | Power BI |
 
+---
+
 ### INSTALL AND EXECUTE
 
 - Install Microsoft SQL Server
