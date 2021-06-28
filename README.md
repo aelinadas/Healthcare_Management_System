@@ -41,7 +41,7 @@ We have designed a centralised database for Healthcare management system to help
 
 ### LANGUAGE AND TOOLS
 
-|Category | |
+| Category | Database, Vizualization Tool|
 | --- | --- |
 | Language | TSQL|
 | Database | Microsoft SQL Server|
