@@ -17,8 +17,8 @@ We have designed a centralised database for Healthcare management system to help
 ### Project Structure
 
 1. Scripts folder contains -
-	1. HealthCare(DDL) - Script to create database and tables for the associated entities
-	2. HealthCare(DML) - Script adds mock data into the database
+	1. HealthCare(DML) - Script adds mock data into the database
+	2. HealthCare(DDL) - Script to create database and tables for the associated entities
 	3. HealthCare(Programmability) - Script contains Stored Procedures, Views, Triggers, Encryption for SSN, Non-clustered Index of the database
 2. Visualization folder contains Dashboards designed using Power BI
 
@@ -26,10 +26,10 @@ We have designed a centralised database for Healthcare management system to help
 
 ### Visualization
 
-1. Count of patients for each Doctor
-	<img alt="viz1" src="https://github.com/aelinadas/Healthcare_Management_System/blob/main/images/viz1.png" />
-2. Count of patients associated with each Insurance company
+1. Count of patients associated with each Insurance company
 	<img alt="viz2" src="https://github.com/aelinadas/Healthcare_Management_System/blob/main/images/viz2.png" />
+2. Count of patients for each Doctor
+	<img alt="viz1" src="https://github.com/aelinadas/Healthcare_Management_System/blob/main/images/viz1.png" />
 3. Diagnosis
 	<img alt="viz3" src="https://github.com/aelinadas/Healthcare_Management_System/blob/main/images/viz3.png" />
 4. Medicine Usage
@@ -52,8 +52,8 @@ We have designed a centralised database for Healthcare management system to help
 ### INSTALL AND EXECUTE
 
 - Install Microsoft SQL Server
-- Import HealthCare(DDL).sql and execute the script to create database and tables
 - Import HealthCare(DML).sql and execute the script to add mock data
-- Import HealthCare(Programmability).sql and execute the script to create Stored Procedures, Views, Triggers, Encryption for SSN, Non-clustered Index of the database
+- Import HealthCare(DDL).sql and execute the script to create database and tables
+- Import HealthCare(Programmability).sql and execute the script to create Views, Triggers, Stored Procedures, Encryption for SSN, Non-clustered Index of the database
 - Install Power BI
 - Connect to database and open the visualization.pbix to view dashboards
